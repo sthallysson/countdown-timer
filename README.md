@@ -5,3 +5,4 @@ Fiz um sistema de contagem para o ano novo de 2022 com JavaScript, HTML e CSS.
 <img src="countdown-timer.png">
 
 ### Link para o acesso:
+https://sthallysson.github.io/countdown-timer/
