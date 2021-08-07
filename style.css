@@ -52,3 +52,8 @@ footer {
   font-size: 1.2rem;
   font-weight: normal;
 }
+@media (max-width: 400px) {
+  footer {
+    display: none;
+  }
+}
